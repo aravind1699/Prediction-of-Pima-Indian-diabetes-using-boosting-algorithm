@@ -1,0 +1,1 @@
+# Prediction-of-Pima-Indian-diabetes-using-boosting-algorithm
